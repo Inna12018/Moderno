@@ -130,3 +130,14 @@ body {
    }
 
 }
+.tab-items__list {
+   line-height: 36px;
+   font-size: 16px;
+   color: #707070;
+   column-count: 2;
+   column-gap: 25px;
+   li {
+      min-width: 270px;
+      width: 100%;
+   }
+}
