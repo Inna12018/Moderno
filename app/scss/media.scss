@@ -185,6 +185,7 @@
     }
     .product__item.list {
         flex-basis: 100%;
+   
 
     }
     .search_inner-title {
@@ -297,6 +298,7 @@
     .products .product__item {
         flex-basis: 100%;
         max-width: 100%; 
+    
     }
     .authot__box {
         display: block;
@@ -341,10 +343,12 @@
     }
     .productmini {
         max-width: 100%;
+        
     }
     .product-page__content .product__item {
         flex-basis: 100%;
         min-width: 100%;
+        margin-right: 10px;
     }
     .products__inner-btn button {
         width: 100%;
@@ -355,6 +359,7 @@
 
     .tutorialr__item {
         flex-basis: 100%;
+
         
     }
 }
@@ -437,6 +442,20 @@
     }
     .product-one__images {
         height: 300px;
+    }
+    .products__inner-box {
+  
+        margin-right: 30px;
+    }
+    .product__slider {
+        padding: 0px 0px 120px;
+    }
+    .products {
+        padding: 76px 0;
+    }
+    .product-page__items {
+        margin-right: 20px;
+
     }
 }
 
